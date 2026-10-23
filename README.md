@@ -1,5 +1,5 @@
 # Conservation Finance
-The full book can be found at [Conservation Finance](https://3point.xyz/confi).
+The full book can be found at [Conservation Finance](https://3point.xyz/confi2).
 
 Whether in the form of grants or capital budget allocations, public agency funding often fluctuates dramatically with political and financial currents. This long-term unpredictability often motivates businesses, nonprofits, and agencies to seek sustainable funding models and approaches to leverage public and private investments in natural resource conservation and infrastructure.
 
